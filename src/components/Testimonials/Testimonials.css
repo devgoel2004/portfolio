@@ -1,0 +1,42 @@
+ul.thumbs {
+  display: none;
+}
+#testimonial {
+  min-height: 100vh;
+}
+
+.carousel .slide img {
+  width: 250px;
+  border-radius: 50%;
+  height: 350px;
+  margin-bottom: 70px;
+}
+.carousel-root {
+  margin-top: 20vh;
+}
+.carousel .slide .legend {
+  background-color: var(--bg-black-100);
+  border: 2px solid var(--bg-black-50);
+  /* margin-top: 50px; */
+  font-size: larger;
+}
+.carousel-status {
+  display: none;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+  position: relative;
+}
+@media (max-width: 700px) {
+  .carousel .slide img {
+    width: 120px;
+    height: 200px;
+    margin-bottom: 150px;
+  }
+  .carousel .slide .legend {
+    font-size: 12px;
+  }
+}

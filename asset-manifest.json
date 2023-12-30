@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4761376a.css",
+    "main.js": "/portfolio/static/js/main.6417e76f.js",
+    "static/media/Testimonial3.png": "/portfolio/static/media/Testimonial3.d2536e8ef7ede5e039a7.png",
+    "static/media/Restaurant.png": "/portfolio/static/media/Restaurant.e71a3ab86349b76d1066.png",
+    "static/media/Weather.png": "/portfolio/static/media/Weather.2739d56ce2f0f48dd839.png",
+    "static/media/stackoverflow.png": "/portfolio/static/media/stackoverflow.7fc5f3a8189d8c21eb9b.png",
+    "static/media/Testimonial2.jpg": "/portfolio/static/media/Testimonial2.d5fb8a1540ab8c0ab967.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.47a272caec1397c08226.jpg",
+    "static/media/Weather.jpg": "/portfolio/static/media/Weather.4bf341c763624217a19b.jpg",
+    "static/media/Chat.jpg": "/portfolio/static/media/Chat.23a19d733cc6674855fb.jpg",
+    "static/media/Testimonial.jpg": "/portfolio/static/media/Testimonial.f513b4f2228ca63aa6c8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.4761376a.css.map": "/portfolio/static/css/main.4761376a.css.map",
+    "main.6417e76f.js.map": "/portfolio/static/js/main.6417e76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4761376a.css",
+    "static/js/main.6417e76f.js"
+  ]
+}
